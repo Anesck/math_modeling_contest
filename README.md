@@ -13,10 +13,13 @@
 
 &emsp;&emsp;[模拟退火（Simulated Annealing，SA）][6]
 
+&emsp;&emsp;[线性规划模型（Linear Programming, LP）][9]
+
 &emsp;&emsp;[主成分分析法（Principal Component Analysis，PCA）][11]
 
 [1]:https://anesck.github.io/math_modeling_contest/notes_html/层次分析法.html	"查看笔记"
 [6]:https://anesck.github.io/math_modeling_contest/notes_html/模拟退火.html	"查看笔记"
+[9]:https://anesck.github.io/math_modeling_contest/notes_html/线性规划模型.html	"查看笔记"
 [11]:https://anesck.github.io/math_modeling_contest/notes_html/主成分分析法.html	"查看笔记"
 
 ### 三、欢迎阅读和纠错，有问题请联系：<578449387@qq.com>，如果有帮助的话麻烦点颗星
